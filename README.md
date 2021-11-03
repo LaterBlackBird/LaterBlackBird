@@ -1,4 +1,45 @@
-### Hi there 👋
+## My Github at a Glance
+<a href="https://github.com/laterblackbird/laterblackbird">
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=laterblackbird&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
+</a>
+<a href="https://github.com/laterblackbird/laterblackbird">
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=8&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
+</a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+### Let's connect
+<a href="https://www.linkedin.com/in/seth-holland" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- <a href="https://samhearst.net/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
+</a> -->
+
+<!-- <a href="https://angel.co/u/sam-h-11/" target="_blank">
+  <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
+</a> -->
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) -->
+
+### Technologies
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<!-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+<!-- ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
+<!-- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) -->
+<!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
+
+
+
 
 <!--
 **LaterBlackBird/LaterBlackBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
