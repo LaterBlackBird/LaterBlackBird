@@ -3,7 +3,7 @@
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=laterblackbird&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
 <!-- <a href="https://github.com/laterblackbird/laterblackbird">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=8&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages"/>
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
 </a> -->
 
 
