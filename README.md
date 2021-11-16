@@ -2,23 +2,15 @@
 <a href="https://github.com/laterblackbird/laterblackbird">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=laterblackbird&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats"/>
 </a>
-<!-- <a href="https://github.com/laterblackbird/laterblackbird">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
-</a> -->
+<a href="https://github.com/laterblackbird/laterblackbird">
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
+</a>
 
 
 ### Let's connect
 <a href="https://www.linkedin.com/in/seth-holland" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<!-- <a href="https://samhearst.net/" target="_blank">
-  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
-</a> -->
-
-<!-- <a href="https://angel.co/u/sam-h-11/" target="_blank">
-  <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
-</a> -->
 
 ### Languages
 
@@ -38,7 +30,15 @@
 <!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
 
 
+<!-- Keep these for later use -->
 
+<!-- <a href="https://xxxx.net/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
+</a> -->
+
+<!-- <a href="https://angel.co/u/xxxx/" target="_blank">
+  <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
+</a> -->
 
 <!--
 **LaterBlackBird/LaterBlackBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
