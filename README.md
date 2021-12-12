@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/laterblackbird/laterblackbird">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
+<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=%25%20of%20Code%20Written&exclude_repo=curriculum,github-slideshow,unified-setup,git-training"/>
 </a>
 
 
