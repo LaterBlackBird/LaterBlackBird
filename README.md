@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/laterblackbird/laterblackbird">
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=%25%20of%20Code%20Written&exclude_repo=curriculum,github-slideshow,unified-setup,git-training&hide=mako, shell"/>
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterblackbird&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=Lines%20of%20Code%20Written&exclude_repo=curriculum,github-slideshow,unified-setup,git-training&hide=mako, shell"/>
 </a>
 
 
@@ -38,15 +38,15 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
+<!-- Make a similar profile using this repo https://github.com/anuraghazra/github-readme-stats -->
+
+
+
 <!-- Keep these for later use -->
-
-
 
 <!-- <a href="https://xxxx.net/" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a> -->
-
-
 
 <!--
 **LaterBlackBird/LaterBlackBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
