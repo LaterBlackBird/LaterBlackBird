@@ -13,9 +13,9 @@
 <a href="https://www.linkedin.com/in/seth-holland" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://angel.co/u/seth-holland" target="_blank">
+<!-- <a href="https://angel.co/u/seth-holland" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white" />
-</a>
+</a> -->
 
 ### Languages
 
